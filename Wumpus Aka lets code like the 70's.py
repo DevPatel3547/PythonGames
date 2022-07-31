@@ -1,15 +1,5 @@
-# By submitting this assignment, I agree to the following:
-#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
-#   "I have not given or received any unauthorized aid on this assignment."
-# Name:         Dev Rahulbhai Patel
-# Section:      505
-# Assignment:   WUMPUS AKA LET'S CODE LIKE THE 70'S
-# Date: DAY 8 MONTH 10 YEAR 2021
-# UIN:931007975
-
-
-
-
+#ENGR 102 Final Project
+#-Dev RahulBhai Patel
 
 
 
